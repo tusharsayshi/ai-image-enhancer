@@ -1,12 +1,53 @@
-# React + Vite
+# 🖼️ AI Image Enhancer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue)](https://ai-image-enhancer-ajvx.onrender.com/)  
 
-Currently, two official plugins are available:
+An AI-powered web application that enhances images with just one click. Built using **React.js** and an **AI API**, this project provides a seamless user experience for uploading, processing, and downloading high-quality images.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📤 **Upload any image**   
+- ⚡ **One-click enhancement** using AI  
+- 🖌️ **Dynamic preview** of before/after results  
+- 💾 **Download enhanced images**  
+- 📱 **Responsive design** for desktop & mobile  
+- 🎨 **Clean UI** built with Tailwind CSS  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Vite, Tailwind CSS  
+- **Backend/API:** AI API (integrated via REST)  
+- **Deployment:** Render (Live Demo Hosting)  
+
+---
+
+## 📸 Screenshots
+
+### Homepage  
+![App Screenshot](<img width="1856" height="873" alt="image" src="https://github.com/user-attachments/assets/f763697e-c6af-4428-9e1b-b35489dc7356" />)
+
+### Upload & Enhance  
+![Enhancer Screenshot](<img width="1761" height="866" alt="image" src="https://github.com/user-attachments/assets/d6f57c27-8aaf-46a4-a1ed-f491d5f8fa64" />)
+
+---
+
+## 🔧 Installation & Setup
+
+If you want to run this project locally:
+
+```bash
+# Clone the repo
+git clone https://github.com/tusharsayshi/ai-image-enhancer.git
+
+# Go to project directory
+cd ai-image-enhancer
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
