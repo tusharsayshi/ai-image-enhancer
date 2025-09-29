@@ -28,10 +28,10 @@ An AI-powered web application that enhances images with just one click. Built us
 ## 📸 Screenshots
 
 ### Homepage  
-![App Screenshot](<img width="1856" height="873" alt="image" src="https://github.com/user-attachments/assets/f763697e-c6af-4428-9e1b-b35489dc7356" />)
+![App Screenshot](https://github.com/user-attachments/assets/f763697e-c6af-4428-9e1b-b35489dc7356)
 
 ### Upload & Enhance  
-![Enhancer Screenshot](<img width="1761" height="866" alt="image" src="https://github.com/user-attachments/assets/d6f57c27-8aaf-46a4-a1ed-f491d5f8fa64" />)
+![Enhancer Screenshot](https://github.com/user-attachments/assets/d6f57c27-8aaf-46a4-a1ed-f491d5f8fa64)
 
 ---
 
